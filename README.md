@@ -2,6 +2,7 @@
 - 👀 I’m interested in web development, problem solving and design stuffs
 - 🌱 I’m currently learning React
 - 📫 How to reach me:
+
               * Instagram: https://www.instagram.com/jonyrockstar7/
               
               * Linkedin: https://www.linkedin.com/in/jony-jas-8888591bb/
