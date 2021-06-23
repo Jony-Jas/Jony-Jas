@@ -114,4 +114,4 @@ EJS                      1 repo              ██░░░░░░░░░�
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jony-Jas&show_icons=true&theme=gotham" alt="Jony-Jas" />
 --->
 <br>
-<h2><em>"The program codes are the life story of software, the author of that story is a programmer"</em><br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- Jony Jas J</h2> 
+<h2><em>"The program codes are the life story of software, the author of that story is a programmer"</em><br><a align="right">- Jony Jas J</a></h2> 
