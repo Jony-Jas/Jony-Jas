@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Hi, I’m Jony Jas
+<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">Hi, I’m Jony Jas</h1>
  
   <a href="https://www.instagram.com/jonyrockstar7/" target="_blank">
   <img align="left" alt="Jony's Instagram" width="25px" src="https://user-images.githubusercontent.com/74784363/122364887-d1a15080-cf77-11eb-8993-c617ac5e6660.png" />
@@ -113,3 +113,5 @@ EJS                      1 repo              ██░░░░░░░░░�
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jony-Jas&show_icons=true&theme=gotham" alt="Jony-Jas" />
 --->
+<br>
+<h2><em>"The program codes are the life story of software, the author of that story is a programmer"</em><br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- Jony Jas J</h2> 
