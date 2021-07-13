@@ -34,7 +34,7 @@
 <code><img height="30" src="https://user-images.githubusercontent.com/74784363/122706040-a028cd80-d274-11eb-8719-c124e960df70.png"></code>&emsp;
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74784363/122709490-01a06a80-d27c-11eb-855c-025bdf07008a.jpg" width="320" height="320" />
-
+<br>
 <br>
 
 <!--START_SECTION:waka-->
