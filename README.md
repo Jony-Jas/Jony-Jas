@@ -14,7 +14,7 @@
 </a>You can click the Preview link to take a look at your changes.
 --->
 <a href="https://open.spotify.com/user/31cl7trdf4lx6z452vxh3xcyyoga">
-  <img align="left" alt="Abhishek's Spotify" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Jony's Spotify" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 </br>
 </br>
@@ -32,6 +32,7 @@
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&emsp;
 <code><img height="35" src="https://user-images.githubusercontent.com/74784363/122376096-77a58880-cf81-11eb-908b-d0f76b4bee8f.png"></code>&emsp;
 <code><img height="30" src="https://user-images.githubusercontent.com/74784363/122706040-a028cd80-d274-11eb-8719-c124e960df70.png"></code>&emsp;
+
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74784363/122709490-01a06a80-d27c-11eb-855c-025bdf07008a.jpg" width="320" height="320" />
 
 <br>
