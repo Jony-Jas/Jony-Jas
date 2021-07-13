@@ -35,7 +35,6 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74784363/122709490-01a06a80-d27c-11eb-855c-025bdf07008a.jpg" width="320" height="320" />
 <br>
-<br>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39661%20lines%20of%20code-blue)
