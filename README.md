@@ -43,7 +43,7 @@
 
 > 🏆 125 Contributions in the Year 2021
  > 
-> 📦 29.6 kB Used in Github's Storage 
+> 📦 30.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -108,7 +108,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2021
+ Last Updated on 01/08/2021
 <!--END_SECTION:waka-->
 
 <!----
