@@ -1,4 +1,4 @@
-<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">Hi, I’m <a href="https://jonyjas.com/" target="_blank">Jony Jas</a></h1>
+<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">Hi, I’m <a href="https://jonyjas.com/">Jony Jas</a></h1>
  
   <a href="https://www.instagram.com/jonyrockstar7/" target="_blank">
   <img align="left" alt="Jony's Instagram" width="25px" src="https://user-images.githubusercontent.com/74784363/122364887-d1a15080-cf77-11eb-8993-c617ac5e6660.png" />
@@ -9,10 +9,7 @@
 <a href="https://twitter.com/jonyjas7">
   <img align="left" alt="Jony's Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
- <!---- <a href="https://discord.gg/">
-  <img align="left" alt="Jony's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>You can click the Preview link to take a look at your changes.
---->
+
 <a href="https://open.spotify.com/user/31cl7trdf4lx6z452vxh3xcyyoga">
   <img align="left" alt="Jony's Spotify" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
