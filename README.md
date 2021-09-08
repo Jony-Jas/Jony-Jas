@@ -10,11 +10,14 @@
   <img align="left" alt="Jony's Twitter" width="40px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png" />
 </a>
 <a href="https://behance.net/jonyjas">
-  <img align="left" alt="Jony's Behance" width="45px" src="https://img.icons8.com/dusk/64/000000/behance.png" />
+  <img align="left" alt="Jony's Behance" width="45px" src="https://img.icons8.com/dusk/64/000000/behance.png"/>
 </a>
+
 <a href="https://open.spotify.com/user/31cl7trdf4lx6z452vxh3xcyyoga">
   <img align="left" alt="Jony's Spotify" width="48px" src="https://img.icons8.com/dusk/64/000000/spotify.png" />
 </a>
+                                                                                                             
+</br>
 </br>
 </br>
 
