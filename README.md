@@ -10,13 +10,11 @@
   <img align="left" alt="Jony's Twitter" width="40px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png" />
 </a>
 <a href="https://behance.net/jonyjas">
-  <img align="left" alt="Jony's Behance" width="45px" src="https://img.icons8.com/dusk/64/000000/behance.png"/>
+  <img align="left" alt="Jony's Behance" width="40px" src="https://user-images.githubusercontent.com/74784363/132524230-02a2f8e4-dccb-444f-9a96-1e8ed52b08c6.png"/>
 </a>
-
 <a href="https://open.spotify.com/user/31cl7trdf4lx6z452vxh3xcyyoga">
-  <img align="left" alt="Jony's Spotify" width="48px" src="https://img.icons8.com/dusk/64/000000/spotify.png" />
-</a>
-                                                                                                             
+  <img align="left" alt="Jony's Spotify" width="43px" src="https://user-images.githubusercontent.com/74784363/132524968-f8d6f1d7-ff49-4ecb-bc15-1c681d63bcce.png" />
+</a>                                                                              
 </br>
 </br>
 </br>
