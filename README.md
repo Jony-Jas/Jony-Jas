@@ -13,7 +13,7 @@
   <img align="left" alt="Jony's Behance" width="40px" src="https://user-images.githubusercontent.com/74784363/132524230-02a2f8e4-dccb-444f-9a96-1e8ed52b08c6.png"/>
 </a>
 <a href="https://open.spotify.com/user/31cl7trdf4lx6z452vxh3xcyyoga">
-  <img align="left" alt="Jony's Spotify" width="43px" src="https://user-images.githubusercontent.com/74784363/132524968-f8d6f1d7-ff49-4ecb-bc15-1c681d63bcce.png" />
+  <img align="left" alt="Jony's Spotify" width="40px" src="https://user-images.githubusercontent.com/74784363/132524968-f8d6f1d7-ff49-4ecb-bc15-1c681d63bcce.png" />
 </a>                                                                              
 </br>
 </br>
