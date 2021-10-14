@@ -1,6 +1,6 @@
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">Hi, I’m <a href="https://jonyjas.com/">Jony Jas</a></h1>
  
-  <a href="https://www.instagram.com/jonyrockstar7/" target="_blank">
+  <a href="https://www.instagram.com/jonyj.dev/" target="_blank">
   <img align="left" alt="Jony's Instagram" width=40px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png" />
 </a>
 <a href="https://www.linkedin.com/in/jony-jas/">
