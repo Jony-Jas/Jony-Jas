@@ -22,7 +22,7 @@
 - 👀About me: 
 >>👨‍💻 I’m a "Web & App Developer , UI/UX Designer" and enthusiastic engineer who loves to build and learn new things, no matter big or small. I seek opportunities that would sharpen my skills in the field all the while making me a better person personally. 
 
->>💻 I am an ECE second-year undergrad passionate about software development, web development, artificial intelligence, and graphics designs. I also have an interest in computer architectures, I love exploring new tech stacks and leveraging them to build cool stuff.
+>>💻 I am an ECE second-year undergrad passionate about software development, web development, artificial intelligence, and graphics designs. I love exploring new tech stacks and leveraging them to build cool stuff.
 - 🔨 Languages and Tools:
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>&emsp;
