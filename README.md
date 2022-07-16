@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/jony-jas/">
   <img align="left" alt="Jony's Linkedin" width="40px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" />
 </a>
-<a href="https://twitter.com/jonyjas7">
+<a href="https://twitter.com/_jonyj">
   <img align="left" alt="Jony's Twitter" width="40px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png" />
 </a>
 <a href="https://behance.net/jonyjas">
