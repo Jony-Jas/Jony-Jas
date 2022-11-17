@@ -40,7 +40,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-606%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-606%20hrs%2049%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -48,7 +48,7 @@
 
 > 🏆 187 Contributions in the Year 2022
  > 
-> 📦 388.4 kB Used in GitHub's Storage 
+> 📦 388.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -85,13 +85,13 @@ Sunday       33 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     48 mins             █████████████████████████   100.0%
+Java                     1 hr 23 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  48 mins             █████████████████████████   100.0%
+VS Code                  1 hr 23 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  48 mins             █████████████████████████   100.0%
+Windows                  1 hr 23 mins        █████████████████████████   100.0%
 
 ```
 
@@ -108,7 +108,7 @@ C                        2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/11/2022 18:55:15 UTC
+ Last Updated on 17/11/2022 18:52:18 UTC
 <!--END_SECTION:waka-->
 
 <!----
