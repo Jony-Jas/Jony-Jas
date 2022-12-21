@@ -85,14 +85,13 @@ Sunday       32 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     2 hrs 1 min         ██████████████████████░░░   89.17% 
-Text                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.83%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 16 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 16 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -109,7 +108,7 @@ C                        2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/12/2022 18:47:55 UTC
+ Last Updated on 21/12/2022 18:47:49 UTC
 <!--END_SECTION:waka-->
 
 <!----
