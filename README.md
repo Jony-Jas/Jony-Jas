@@ -40,7 +40,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-609%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-611%20hrs%2028%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -85,13 +85,18 @@ Sunday       32 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 4 mins         ██████████████░░░░░░░░░░░   55.79% 
+JavaScript               29 mins             ██████░░░░░░░░░░░░░░░░░░░   25.31% 
+HTML                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.77% 
+Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.6% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 1 hr 42 mins        ██████████████████████░░░   88.19% 
+VS Code                  13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.81%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 56 mins        █████████████████████████   100.0%
 
 ```
 
@@ -108,7 +113,7 @@ C                        2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/12/2022 18:46:06 UTC
+ Last Updated on 27/12/2022 18:49:15 UTC
 <!--END_SECTION:waka-->
 
 <!----
