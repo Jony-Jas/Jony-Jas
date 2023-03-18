@@ -40,7 +40,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-682%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-683%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
@@ -83,13 +83,17 @@ Sunday                   86 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     13 mins             ██████████░░░░░░░░░░░░░░░   38.66 % 
+Markdown                 8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+HTML                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Other                    4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+JavaScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  35 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  35 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -105,7 +109,7 @@ EJS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/03/2023 18:42:09 UTC
+ Last Updated on 18/03/2023 18:40:39 UTC
 <!--END_SECTION:waka-->
 
 <!----
