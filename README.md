@@ -3,7 +3,7 @@
  <a href="https://jonyjas.com/" target="_blank">
   <img align="left" alt="Jony's Website" width="40px" src="https://user-images.githubusercontent.com/74784363/143541601-3ab9695a-100a-4ad7-8d21-43cd1e4af7c7.png" />
 </a>
- <a href="https://www.instagram.com/jonyj.dev/" target="_blank">
+ <a href="https://www.instagram.com/_jony.j/" target="_blank">
   <img align="left" alt="Jony's Instagram" width="40px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png" />
 </a>
 <a href="https://www.linkedin.com/in/jony-jas/">
@@ -23,18 +23,19 @@
 </br>
 
 - 👀About me: 
->>👨‍💻 I’m a "Web & App Developer , UI/UX Designer" and enthusiastic engineer who loves to build and learn new things, no matter big or small. I seek opportunities that would sharpen my skills in the field all the while making me a better person personally. 
+>>👨‍💻 I’m a "Web & App Developer " and enthusiastic engineer who loves to build and learn new things, no matter big or small. I seek opportunities that would sharpen my skills in the field all the while making me a better person personally. 
 
->>💻 I am an final-year undergrad passionate about software development, web development, artificial intelligence, and graphics designs. I love exploring new tech stacks and leveraging them to build cool stuff.
+>>💻 I am a final-year undergrad passionate about software development, web development, artificial intelligence, and blockchain. I love exploring new tech stacks and leveraging them to build cool stuff.
 - 🔨 Languages and Tools:
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>&emsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&emsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>&emsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&emsp;
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&emsp;
-<code><img height="35" src="https://user-images.githubusercontent.com/74784363/122376096-77a58880-cf81-11eb-908b-d0f76b4bee8f.png"></code>&emsp;
-<code><img height="30" src="https://user-images.githubusercontent.com/74784363/122706040-a028cd80-d274-11eb-8719-c124e960df70.png"></code>&emsp;
+<code><img height="35" src="https://github.com/Jony-Jas/Jony-Jas/assets/74784363/93e7f0c2-91e8-4ad4-85ba-6a908f241426"></code>&emsp;
+<code><img height="35" src="https://github.com/Jony-Jas/Jony-Jas/assets/74784363/12f9d83c-7568-4519-9a33-aaa17f8ddcbf"></code>&emsp;
+<code><img height="35" src="https://github.com/Jony-Jas/Jony-Jas/assets/74784363/35c65754-e3de-48c6-ba57-506543d72f09"></code>&emsp;
+<code><img height="35" src="https://github.com/Jony-Jas/Jony-Jas/assets/74784363/ab954eac-c3ae-433c-b686-303b7c285542"></code>&emsp;
+<code><img height="35" src="https://github.com/Jony-Jas/Jony-Jas/assets/74784363/3188704e-9350-4e24-80fb-b37fc64abf9a"></code>&emsp;
+<code><img height="35" src="https://github.com/Jony-Jas/Jony-Jas/assets/74784363/5937843a-cf31-40bf-b002-b5b2fc9ca757"></code>&emsp;
+<code><img height="40" src="https://user-images.githubusercontent.com/74784363/122376096-77a58880-cf81-11eb-908b-d0f76b4bee8f.png"></code>&emsp;
+<code><img height="35" src="https://github.com/Jony-Jas/Jony-Jas/assets/74784363/be9b29a5-3fd0-4867-a7f5-3c109c93ea1d"></code>&emsp;
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74784363/122709490-01a06a80-d27c-11eb-855c-025bdf07008a.jpg" width="320" height="320" />
 <br>
