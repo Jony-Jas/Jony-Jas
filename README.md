@@ -41,7 +41,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-746%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-746%20hrs%2028%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
@@ -49,11 +49,11 @@
 
 > 📦 458.3 kB Used in GitHub's Storage 
  > 
-> 🏆 65 Contributions in the Year 2023
+> 🏆 66 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 75 Public Repositories 
+> 📜 76 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
@@ -84,15 +84,16 @@ Sunday                   87 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     24 mins             █████████████████░░░░░░░░   69.99 % 
-XML                      10 mins             ███████░░░░░░░░░░░░░░░░░░   29.40 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Java                     15 mins             █████████████████░░░░░░░░   69.51 % 
+HTML                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+XML                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+GitIgnore file           1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 
 🔥 Editors: 
-IntelliJ                 35 mins             █████████████████████████   100.00 % 
+IntelliJ                 22 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  35 mins             █████████████████████████   100.00 % 
+Windows                  22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,7 +109,7 @@ EJS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/06/2023 18:42:43 UTC
+ Last Updated on 25/06/2023 18:42:31 UTC
 <!--END_SECTION:waka-->
 
 <!----
