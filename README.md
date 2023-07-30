@@ -25,7 +25,7 @@
 - 👀About me: 
 >>🚀 Passionate "Web & App Developer" and enthusiastic engineer 🛠️, constantly seeking opportunities to learn and grow, no matter the scale. Dedicated to building a better future through technology while enhancing personal development. 📈
 
->>🎓 Final-year undergrad with a fervent interest in software development, web development, artificial intelligence, and blockchain. Embracing curiosity, I enjoy exploring new tech stacks to craft exciting and innovative projects. 💡
+>>🎓 Currently a final-year undergrad, I possess a burning passion for software development, web, mobile development, and blockchain. I firmly believe in the power of curiosity, and I revel in exploring novel tech stacks to bring forth creative and innovative projects 💡
 - 🔨 Languages and Tools:
 
 <code><img height="35" src="https://github.com/Jony-Jas/Jony-Jas/assets/74784363/93e7f0c2-91e8-4ad4-85ba-6a908f241426"></code>&emsp;
