@@ -119,4 +119,4 @@ EJS                      2 repos             █░░░░░░░░░░�
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jony-Jas&show_icons=true&theme=gotham" alt="Jony-Jas" />
 --->
 <br>
-<h2><em>"The program codes are the life story of software, the author of that story is a programmer"<h3 align="right">- Jony Jas J</h3></em></h2> 
+<h2><em>"𝘗𝘳𝘰𝘨𝘳𝘢𝘮 𝘤𝘰𝘥𝘦𝘴 𝘢𝘳𝘦 𝘭𝘪𝘬𝘦 𝘵𝘩𝘦 𝘭𝘪𝘧𝘦 𝘴𝘵𝘰𝘳𝘺 𝘰𝘧 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦, 𝘢𝘯𝘥 𝘵𝘩𝘦 𝘰𝘯𝘦𝘴 𝘸𝘩𝘰 𝘸𝘳𝘪𝘵𝘦 𝘵𝘩𝘪𝘴 𝘴𝘵𝘰𝘳𝘺 𝘢𝘳𝘦 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘦𝘳𝘴"<h3 align="right"> - 𝘑𝘰𝘯𝘺 𝘑𝘢𝘴</h3></em></h2> 
