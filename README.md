@@ -84,13 +84,13 @@ Sunday                   92 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     1 hr 12 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 12 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 12 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,7 +106,7 @@ EJS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2023 18:39:53 UTC
+ Last Updated on 31/08/2023 18:39:49 UTC
 <!--END_SECTION:waka-->
 
 <!----
