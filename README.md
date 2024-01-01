@@ -41,7 +41,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-953%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-953%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
@@ -49,7 +49,7 @@
 
 > 📦 460.8 kB Used in GitHub's Storage 
  > 
-> 🏆 188 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,13 +84,14 @@ Sunday                   116 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 55 mins        █████████████████████████   100.00 % 
+Python                   2 hrs 6 mins        █████████████████████████   98.06 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 🔥 Editors: 
-VS Code                  1 hr 55 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,7 +107,7 @@ EJS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2023 18:40:26 UTC
+ Last Updated on 01/01/2024 18:40:21 UTC
 <!--END_SECTION:waka-->
 
 <!----
