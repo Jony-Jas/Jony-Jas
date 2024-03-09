@@ -41,7 +41,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C004%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C004%20hrs%2016%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
@@ -84,13 +84,14 @@ Sunday                   116 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 7 mins              █████████████████████████   100.00 % 
+Markdown                 7 mins              ███████████████░░░░░░░░░░   59.93 % 
+Java                     5 mins              ██████████░░░░░░░░░░░░░░░   40.07 % 
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 mins              █████████████████████████   100.00 % 
+Linux                    12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,7 +107,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/03/2024 18:40:41 UTC
+ Last Updated on 09/03/2024 18:40:14 UTC
 <!--END_SECTION:waka-->
 
 <!----
