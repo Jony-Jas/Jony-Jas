@@ -84,13 +84,13 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,7 +106,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/03/2024 18:40:26 UTC
+ Last Updated on 27/03/2024 18:40:09 UTC
 <!--END_SECTION:waka-->
 
 <!----
