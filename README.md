@@ -41,15 +41,13 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C012%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C013%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 464.3 kB Used in GitHub's Storage 
- > 
-> 🏆 34 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,13 +82,16 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               55 mins             ██████████████░░░░░░░░░░░   57.72 % 
+YAML                     37 mins             ██████████░░░░░░░░░░░░░░░   38.59 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 36 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 36 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,7 +107,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/05/2024 18:40:15 UTC
+ Last Updated on 26/05/2024 18:40:23 UTC
 <!--END_SECTION:waka-->
 
 <!----
