@@ -41,15 +41,13 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C100%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C105%20hrs%2036%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 476.1 kB Used in GitHub's Storage 
- > 
-> 🏆 5 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,15 +82,15 @@ Sunday                   110 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   20 hrs 11 mins      █████████████████████████   99.40 % 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Python                   23 hrs              █████████████████████████   99.35 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 19 mins      █████████████████████████   100.00 % 
+VS Code                  23 hrs 9 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  20 hrs 19 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,7 +106,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/01/2025 18:44:29 UTC
+ Last Updated on 20/01/2025 18:44:20 UTC
 <!--END_SECTION:waka-->
 
 <!----
