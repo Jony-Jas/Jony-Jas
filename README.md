@@ -41,7 +41,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C197%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C198%20hrs%2056%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
@@ -51,7 +51,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 105 Public Repositories 
+> 📜 106 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
@@ -82,13 +82,17 @@ Sunday                   112 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 46 mins        ████████████████████████░   96.62 % 
+Groovy                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 50 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 50 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -104,7 +108,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2025 18:55:24 UTC
+ Last Updated on 15/08/2025 18:54:13 UTC
 <!--END_SECTION:waka-->
 
 <!----
