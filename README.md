@@ -41,15 +41,13 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C227%20hrs%2012%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 490.2 kB Used in GitHub's Storage 
  > 
-> 🏆 42 Contributions in the Year 2025
+> 🏆 43 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,7 +68,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2025 18:49:11 UTC
+ Last Updated on 20/09/2025 18:44:35 UTC
 <!--END_SECTION:waka-->
 
 <!----
