@@ -39,7 +39,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C274%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C275%20hrs%206%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
@@ -82,14 +82,14 @@ Sunday                   132 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     6 hrs 53 mins       █████████████████████████   99.11 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Java                     7 hrs 57 mins       █████████████████████████   99.23 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 57 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 1 min         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -105,7 +105,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/12/2025 18:57:20 UTC
+ Last Updated on 05/12/2025 18:52:03 UTC
 <!--END_SECTION:waka-->
 
 <!----
