@@ -37,34 +37,76 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.11%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C363%20hrs%206%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.12%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 510.3 kB Used in GitHub's Storage 
+> 📦 510.5 kB Used in GitHub's Storage 
  > 
-> 🏆 132 Contributions in the Year 2026
+> 🏆 153 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 113 Public Repositories 
  > 
-> 🔑 9 Private Repositories 
+> 🔑 10 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                169 commits         █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+🌆 Daytime                408 commits         ████████████░░░░░░░░░░░░░   47.61 % 
+🌃 Evening                271 commits         ████████░░░░░░░░░░░░░░░░░   31.62 % 
+🌙 Night                  9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Tuesday                  86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Wednesday                80 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Thursday                 152 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Friday                   115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Saturday                 156 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+Sunday                   157 commits         █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Go                       18 hrs 25 mins      ████████████████████████░   94.26 % 
+Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+TypeScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+
+🔥 Editors: 
+VS Code                  19 hrs 32 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  19 hrs 32 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               49 repos            ████████████░░░░░░░░░░░░░   46.23 % 
-Python                   16 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-TypeScript               13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Java                     10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Jupyter Notebook         2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+JavaScript               49 repos            ███████████░░░░░░░░░░░░░░   45.79 % 
+Python                   16 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+TypeScript               14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Java                     10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Jupyter Notebook         2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 ```
 
 
 
 
- Last Updated on 15/05/2026 20:19:28 UTC
+ Last Updated on 16/05/2026 19:54:24 UTC
 <!--END_SECTION:waka-->
 
 <!----
