@@ -80,15 +80,13 @@ Sunday                   167 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 mins              ████████████░░░░░░░░░░░░░   49.49 % 
-Other                    3 mins              ████████████░░░░░░░░░░░░░   47.64 % 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Antigravity Desktop      8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -104,7 +102,7 @@ Jupyter Notebook         2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/07/2026 20:16:40 UTC
+ Last Updated on 06/07/2026 20:49:57 UTC
 <!--END_SECTION:waka-->
 
 <!----
