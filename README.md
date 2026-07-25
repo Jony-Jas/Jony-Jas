@@ -37,13 +37,15 @@
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C394%20hrs%2052%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.13%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 511.5 kB Used in GitHub's Storage 
  > 
-> 🏆 282 Contributions in the Year 2026
+> 🏆 283 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,6 +53,45 @@
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                179 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+🌆 Daytime                427 commits         ███████████░░░░░░░░░░░░░░   43.26 % 
+🌃 Evening                372 commits         █████████░░░░░░░░░░░░░░░░   37.69 % 
+🌙 Night                  9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Tuesday                  107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Wednesday                100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Thursday                 162 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Friday                   142 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Saturday                 178 commits         █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+Sunday                   167 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               4 mins              ███████████░░░░░░░░░░░░░░   43.32 % 
+Bash                     4 mins              █████████░░░░░░░░░░░░░░░░   37.38 % 
+Other                    2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+
+🔥 Editors: 
+Antigravity Desktop      9 mins              ██████████████████████░░░   87.08 % 
+VS Code                  1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+
+💻 Operating System: 
+Windows                  11 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -64,7 +105,7 @@ Jupyter Notebook         2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 20:23:43 UTC
+ Last Updated on 25/07/2026 20:08:11 UTC
 <!--END_SECTION:waka-->
 
 <!----
