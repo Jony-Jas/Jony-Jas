@@ -37,10 +37,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C379%20hrs%2023%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2010%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.13%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -55,48 +51,6 @@
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                179 commits         █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-🌆 Daytime                428 commits         ███████████░░░░░░░░░░░░░░   43.32 % 
-🌃 Evening                372 commits         █████████░░░░░░░░░░░░░░░░   37.65 % 
-🌙 Night                  9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Tuesday                  107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Wednesday                101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-Thursday                 162 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Friday                   142 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Saturday                 178 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-Sunday                   167 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -110,7 +64,7 @@ Jupyter Notebook         2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 20:35:42 UTC
+ Last Updated on 07/08/2026 00:51:57 UTC
 <!--END_SECTION:waka-->
 
 <!----
