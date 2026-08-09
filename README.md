@@ -37,9 +37,9 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C379%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C379%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2025%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.13%20million%20lines%20of%20code-blue?style=flat)
 
@@ -82,19 +82,36 @@ Sunday                   167 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               13 mins             █████████████████████░░░░   85.72 % 
+Bash                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  15 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 15 mins (100.0%)
+
+✍️ 216 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 185,930 Input Tokens, 12,323 Output Tokens
+
+💵 $2.87 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 2 AI Prompts
+
+GPT                      230 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 784 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -110,7 +127,7 @@ Jupyter Notebook         2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 19:38:06 UTC
+ Last Updated on 09/08/2026 19:39:09 UTC
 <!--END_SECTION:waka-->
 
 <!----
