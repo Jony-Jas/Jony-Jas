@@ -82,36 +82,19 @@ Sunday                   167 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               13 mins             █████████████████████░░░░   85.72 % 
-Bash                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (100.0%)
-
-✍️ 216 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 185,930 Input Tokens, 12,323 Output Tokens
-
-💵 $2.87 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-GPT                      230 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 784 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -127,7 +110,7 @@ Jupyter Notebook         2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2026 19:25:14 UTC
+ Last Updated on 16/08/2026 19:28:04 UTC
 <!--END_SECTION:waka-->
 
 <!----
